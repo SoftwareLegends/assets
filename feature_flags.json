@@ -1,6 +1,6 @@
 {
   "data": {
-      "cp_registration": true,
+      "cp_registration": false,
       "cp_login": true,
       "cp_registration_phone": true,
       "cp_registration_email": true,
