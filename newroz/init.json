@@ -59,7 +59,7 @@
       "wsc_latest_offers": true,
       "wsc_esim_qrcode": false,
       "wsc_usage": true,
-      "wsc_edit_profile": true,
+      "wsc_edit_profile": false,
       "wsc_account_information": true,
       "wsc_policy": true,
       "wsc_locations_map": true,
