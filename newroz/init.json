@@ -69,7 +69,7 @@
       "follow_us_links": true,
       "about_us": true,
       "fib_app_redirection": true,
-      "popups": false,
+      "popups": false
     },
     "static_configurations": {
       "help_email": "support@newrozholdings.com",
