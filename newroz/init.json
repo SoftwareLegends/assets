@@ -84,21 +84,21 @@
     "app_versions": [
       {
         "platform": "Huawei",
-        "min_supported_version": "1.0.24",
+        "min_supported_version": "5.0.0",
         "latest_version": "2.0",
         "force_update": false,
         "update_url": "https://apps.apple.com/app/your-app-id"
       },
       {
         "platform": "Android",
-        "min_supported_version": "1.0.24",
+        "min_supported_version": "5.0.0",
         "latest_version": "2.0",
         "force_update": false,
         "update_url": "https://play.google.com/store/apps/details?id=com.yourapp"
       },
       {
         "platform": "iOS",
-        "min_supported_version": "1.0.24",
+        "min_supported_version": "5.0.0",
         "latest_version": "2.0",
         "force_update": false,
         "update_url": "https://play.google.com/store/apps/details?id=com.yourapp"
