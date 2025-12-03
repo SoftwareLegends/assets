@@ -59,7 +59,7 @@
       "wsc_latest_offers": true,
       "wsc_esim_qrcode": false,
       "wsc_usage": true,
-      "wsc_edit_profile": false,
+      "wsc_edit_profile": true,
       "wsc_account_information": true,
       "wsc_policy": true,
       "wsc_locations_map": true,
@@ -69,7 +69,8 @@
       "follow_us_links": true,
       "about_us": true,
       "fib_app_redirection": true,
-      "popups": false
+      "popups": false,
+      "nslookup": false
     },
     "static_configurations": {
       "help_email": "support@newrozholdings.com",
@@ -94,14 +95,14 @@
         "min_supported_version": "5.0.0",
         "latest_version": "2.0",
         "force_update": false,
-        "update_url": "https://play.google.com/store/apps/details?id=com.yourapp"
+        "update_url": "https://play.google.com/store/apps/details?id=pl.dotsystems.newroz4g"
       },
       {
         "platform": "iOS",
         "min_supported_version": "5.0.0",
         "latest_version": "2.0",
         "force_update": false,
-        "update_url": "https://play.google.com/store/apps/details?id=com.yourapp"
+        "update_url": "https://apps.apple.com/us/app/newroz-4g-lte/id1265192847"
       }
     ]
   }
