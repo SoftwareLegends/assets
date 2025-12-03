@@ -70,7 +70,7 @@
       "about_us": true,
       "fib_app_redirection": true,
       "popups": true,
-      "false": true
+      "nslookup": true
     },
     "static_configurations": {
       "help_email": "support@fast-link.com",
