@@ -52,7 +52,7 @@
       "wsc_boosters": true,
       "wsc_buy_boosters_fib": true,
       "wsc_buy_boosters_ncc": true,
-      "wsc_smart_offer_bundles": false,
+      "wsc_smart_offer_bundles": true,
       "wsc_frequent_bundles": true,
       "wsc_locations": true,
       "wsc_transactions": true,
