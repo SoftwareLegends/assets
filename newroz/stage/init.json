@@ -68,7 +68,7 @@
       "wsc_locations_map": true,
       "language": true,
       "theme": true,
-      "services": false,
+      "services": true,
       "follow_us_links": true,
       "about_us": true,
       "fib_app_redirection": true,
