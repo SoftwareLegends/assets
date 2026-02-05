@@ -45,7 +45,7 @@
       "fcm_notifications": true,
       "hcm_notifications": true,
       "wsc_bundles": true,
-      "wsc_buy_bundles_fib": true,
+      "wsc_buy_bundles_fib": false,
       "wsc_buy_bundles_ncc": true,
       "wsc_recharge_fib": true,
       "wsc_recharge_scratch_card": true,
