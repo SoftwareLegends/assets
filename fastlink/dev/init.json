@@ -84,7 +84,7 @@
       "te_help_whatsapp": "964666666121",
       "cp_terms_and_conditions": "https://fast-link.com",
       "push_notification_rate_per_hour": 0,
-      "ai_temperature": 0.2,
+      "ai_temperature": 1,
       "ai_max_tokens": 1024,
       "ai_llm_config_id": "11148e2a-11af-48a1-9377-ff8818f00679",
     },
