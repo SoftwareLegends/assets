@@ -20,7 +20,7 @@
       "cp_forget_password": true,
       "cp_delete_account": true,
       "cp_privacy": true,
-      "cp_ai_chat": true,
+      "cp_ai_chat": false,
       "cp_force_registration": false,
       "cp_registration_gift": false,
       "linking": true,
