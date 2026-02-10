@@ -1,6 +1,7 @@
 {
   "data": {
     "feature_flags": {
+      "cp": false,
       "cp_registration": true,
       "cp_login": true,
       "cp_registration_phone": true,
@@ -86,7 +87,7 @@
       "push_notification_rate_per_hour": 0,
       "ai_temperature": 0.7,
       "ai_max_tokens": 256,
-      "ai_llm_config_id": "11148e2a-11af-48a1-9377-ff8818f00679",
+      "ai_llm_config_id": "11148e2a-11af-48a1-9377-ff8818f00679"
     },
     "app_versions": [
       {
