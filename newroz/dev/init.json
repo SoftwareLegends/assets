@@ -1,7 +1,7 @@
 {
   "data": {
     "feature_flags": {
-      "cp":false,
+      "cp": true,
       "cp_registration": true,
       "cp_registration_phone": true,
       "cp_registration_email": true,
