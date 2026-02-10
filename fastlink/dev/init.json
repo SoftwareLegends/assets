@@ -24,7 +24,7 @@
       "cp_force_registration": true,
       "cp_registration_gift": false,
       "linking": true,
-      "te": false,
+      "te": true,
       "te_latest_offers": true,
       "te_coverage": true,
       "te_archived_esims": true,
